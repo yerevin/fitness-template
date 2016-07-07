@@ -24,7 +24,7 @@ $(document).ready(function(){
 
   });
 
-  // loop through each .project element
+  // loop through each element
   $('.inside-text-2').each(function(){
     // build a scene
     var ourScene = new ScrollMagic.Scene({
