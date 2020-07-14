@@ -1,4 +1,4 @@
-# fitness-template
+# fitness-template [2016]
 
 https://yerevin.github.io/fitness-template/
 
